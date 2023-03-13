@@ -41,6 +41,8 @@ The PCA results show that the first two principal components explain around 70% 
 
 The visualization of the principal components shows how countries are clustered based on their attributes. Countries with similar attributes are closer together, while countries with dissimilar attributes are farther apart. This can be useful for identifying patterns and relationships in the data.
 
+![alt text](https://github.com/yasmina-99/Unsupervised-Machine-Learning/blob/main/download-4.png)
+
 ## About the Dataset
 The "Countries of the World" dataset contains information on 227 countries, including their region, population, area size, GDP, mortality, and more. The data is compiled from the US Government and is available in the public domain.
 
