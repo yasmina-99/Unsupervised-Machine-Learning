@@ -2,9 +2,10 @@
 
 ## Overview
 
+This project is an application of Ubsupervised Machine Learning project using Principal Component Analysis (PCA) on the "Countries of the World" dataset. The dataset contains information on 227 countries, including their region, population, area size, GDP, mortality, and more.
+
 ![alt text](https://github.com/yasmina-99/Unsupervised-Machine-Learning/blob/main/6FDBF20F-FB04-4035-B3CA-A4F50C905FF1_1_201_a.jpeg)
 
-This project is an application of Ubsupervised Machine Learning project using Principal Component Analysis (PCA) on the "Countries of the World" dataset. The dataset contains information on 227 countries, including their region, population, area size, GDP, mortality, and more.
 
 ## Data Card
 `Context:` World fact sheet, fun to link with other datasets.
