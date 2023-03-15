@@ -48,6 +48,8 @@ The "Countries of the World" dataset contains information on 227 countries, incl
 
 The dataset is useful for exploring the relationships between different country attributes and for visualizing patterns and trends in the data. It can also be combined with other datasets to perform more complex analyses.
 
+![alt text](https://github.com/yasmina-99/Unsupervised-Machine-Learning/blob/main/download-7.png)
+
 ## License
 This project and the "Countries of the World" dataset are released under the CC0: Public Domain license. This means that they can be used, modified, and distributed without any restrictions or permissions required.
 
